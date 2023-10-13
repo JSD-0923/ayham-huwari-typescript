@@ -1,0 +1,29 @@
+{
+    "books": [
+      {
+        "name": "IT",
+        "author": "stephine king",
+        "isbn": 1234
+      },
+      {
+        "name": "The shining",
+        "author": "author two",
+        "isbn": 1235
+      },
+      {
+        "name": "The stand",
+        "author": "author three",
+        "isbn": 1236
+      },
+      {
+        "name": "Lord of the reings",
+        "author": "author three",
+        "isbn": 1236
+      },
+      {
+        "name": "Lord of the fires",
+        "author": "author three",
+        "isbn": 1236
+      }
+    ]
+  }
